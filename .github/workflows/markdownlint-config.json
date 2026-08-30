@@ -4,5 +4,6 @@
   "no-trailing-punctuation": {
     "punctuation": ".,;:"
   },
-  "no-inline-html": true
+  "no-inline-html": false,
+  "no-multiple-blanks": true
 }
