@@ -7,7 +7,7 @@ category:
         - code
         - employment
         - rant
-summary: Sure PowerShell is a microsoft thing. Does htat mean it's bad?
+summary: Sure PowerShell is a microsoft thing. Does that mean it's bad?
 thumbnail: /assets/img/posts/powershell.jpg
 ---
 
