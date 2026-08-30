@@ -25,3 +25,18 @@ jobs:
           ignore: _site/
           # Try to fix basic errors
           fix: true
+
+  notify:
+    name: Report Status
+    runs-on: ubuntu-latest
+    needs: [analyze]
+    steps:
+      - name: Failure Notification
+        uses: niniyas/ntfy-action@master
+        if: failure()
+        with:
+          url: 'https://notifications.compuguy.dev'
+          topic: 'github'
+          priority: 3
+          tags: action,failed
+          details: Markdown linting failed! Review the logs and fix immediately!
