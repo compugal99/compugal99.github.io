@@ -17,6 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
       - name: Lint markdown files with markdown-lint
+        id: lint
         uses: DavidAnson/markdownlint-cli2-action@v24
         with:
           # Includes some specific rules to ignore
