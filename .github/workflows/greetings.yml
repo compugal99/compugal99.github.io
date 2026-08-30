@@ -22,7 +22,7 @@ jobs:
           and get back to you.
         pr_message: >-
           Thanks for submitting a PR. If the PR is a valid and passes
-          all the checks , we will approve it soon. Have a great day!
+          all the checks , I will approve it soon. Have a great day!
 
   notify:
     name: Notify
