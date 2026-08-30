@@ -25,7 +25,7 @@ urls:
 author_logo: profile.jpg
 author: Alex Guymon
 author_bio: Hi, my name is Alex Guymon. I built this site using devlopr-jekyll :D
-author_email: "alex.guymon@compuguy.dev"
+author_email: "alex@compugal.dev"
 author_location: United States
 typewrite-text: I'm an Infrastructure Engineer with experience in developing against Windows PowerShell, Active Directory, and Devolutions RDM.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
@@ -69,7 +69,7 @@ author_project_details:
                 visibility: true
 
 # social links
-github_username:  CompuGal99
+github_username:  compugal99
 linkedin_username: alex-compugal
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
