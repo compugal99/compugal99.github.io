@@ -2,12 +2,12 @@
 name: Alex Guymon
 username: compugal99
 bio: "I am a Computer Engineer and developer"
-site: http://johndoe.com
+site: http://www.compugal99.dev
 avatar: compugal99.jpg
 email: alex@compuguy.dev
 social:
     - title: "github"
-      url: "https://github.com/CompuGuy99"
+      url: "https://github.com/compugal99"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/alex-compugal"
     # - title: "youtube"
